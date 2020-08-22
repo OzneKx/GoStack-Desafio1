@@ -3,11 +3,11 @@
 
 -> Concepts involving **Node.JS** applications 
 
-# Results:
 ---
+
+# Results:
 ## Requirements
 <img align="center" src="./assets/Feedback1.png">
----
 
 ### Score
 <p>
