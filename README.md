@@ -6,11 +6,11 @@
 # Results:
 ---
 ## Requirements
-<img src="./assets/Feedback1.png">
+<img align="center" src="./assets/Feedback1.png">
 ---
 
 ### Score
-<img src="./assets/Nota1.png"> 
+<img align="center" src="./assets/Nota1.png"> 
 
 
 
