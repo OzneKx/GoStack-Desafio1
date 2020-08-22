@@ -9,7 +9,9 @@
 
 
 ## Requirements
-<img align="center" src="./assets/Feedback1.png">
+<p align="center">
+ <img align="center" src="./assets/Feedback1.png">
+</p>
 
 ### Score
 <p align="center">
