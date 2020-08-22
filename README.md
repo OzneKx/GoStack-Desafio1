@@ -1,7 +1,7 @@
 # GoStack-Desafio-1
  Desafio 1 do Bootcamp GoStack
 
--> Concepts involving **Node.JS** applications 
+- Concepts involving **Node.JS** applications 
 
 
 ## Results:
