@@ -6,12 +6,14 @@
 ---
 
 # Results:
+
+
 ## Requirements
 <img align="center" src="./assets/Feedback1.png">
 
 ### Score
-<p>
- <img align="center" src="./assets/Nota1.png"> 
+<p align="center">
+ <img src="./assets/Nota1.png"> 
 </p>
 
 
