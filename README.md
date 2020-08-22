@@ -10,8 +10,9 @@
 ---
 
 ### Score
-<img align="center" src="./assets/Nota1.png"> 
-
+<p>
+ <img align="center" src="./assets/Nota1.png"> 
+</p>
 
 
 
