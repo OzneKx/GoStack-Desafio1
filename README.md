@@ -5,12 +5,12 @@
 
 # Results:
 
-## - Requirements
+### -> Requirements
 <p align="center">
  <img align="center" src="./assets/Feedback1.png">
 </p>
 
-### - Score
+### -> Score
 <p align="center">
  <img src="./assets/Nota1.png"> 
 </p>
